@@ -1,0 +1,1 @@
+add_executable(vulkan_minecraft main.cpp)
