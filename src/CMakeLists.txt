@@ -1,1 +1,1 @@
-add_executable(vulkan_minecraft main.cpp)
+target_sources(vulkan_minecraft PRIVATE main.cpp)
